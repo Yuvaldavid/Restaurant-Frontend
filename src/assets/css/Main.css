@@ -1,0 +1,15 @@
+.mainMenu{
+    color:aliceblue;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.footer{
+    background-color: black;
+    margin: 115px auto;
+    padding-top: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100;
+    color:azure;
+}
